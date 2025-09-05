@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://cesar.caldeira.cc"
 languageCode = "en-GB"
 title = "César Caldeira"
 theme = "hugo-split-theme"
